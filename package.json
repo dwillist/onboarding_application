@@ -1,0 +1,12 @@
+{
+  "author": "Paketo Buildpacks",
+  "dependencies": {},
+  "description": "Onboarding application",
+  "license": "Apache-2.0",
+  "main": "server.js",
+  "name": "onboarding_app",
+  "repository": {
+    "type": "git"
+  },
+  "version": "0.0.1"
+}
